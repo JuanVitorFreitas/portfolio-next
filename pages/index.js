@@ -35,7 +35,7 @@ const BgImg  = styled.div`
 `;
 
 const BgGradient = styled.div`
-    width: 1920px;
+    width: 100vw;
     height: 100%;
     
     background: linear-gradient(0deg ,#2e384d,rgba(2,0,36,0) 50%); 
